@@ -1,0 +1,8 @@
+PARAMETERIZED AUTOMATED SMOOTHING SPLINE CONTROL FILE
+input_filename = lakesuperior.csv
+output_filename = random.csv
+radius_of_curvature = 0.008
+tolerance = 0.0000001
+number_of_evaluation_points = 1387
+periodic_dataset? = 0
+header_in_input_file? = 1
