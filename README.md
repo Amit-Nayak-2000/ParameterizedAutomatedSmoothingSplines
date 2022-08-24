@@ -1,6 +1,6 @@
 # Parameterized Automated Smoothing Splines
 
-By: Amit Nayak & Dr. David Kopriva
+By: Amit Nayak & Dr. David A Kopriva
 
 This software takes in noisy data and outputs smoothed data to within a user defined length scale (minimum radius of curvature) and tolerance. 
 The parameterized smoothing splines that are used are based on the SMOOTH algorithm in A Practical Guide to Splines by Carl de Boor [1]. 
