@@ -16,7 +16,7 @@ g++ -std=c++11 main.cpp
 ```
 
 
-If you have any questions, please email me at anaya085@uottawa.ca
+If you have any questions, please email me at anaya085 *at* uottawa dot ca
 
 
 References:
